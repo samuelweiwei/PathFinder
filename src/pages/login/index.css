@@ -1,0 +1,9 @@
+.div-center {
+    margin: auto;
+    width: 50%;
+    border: 0;
+    padding: 10px;
+    height: 300px;
+    display:flex;
+    vertical-align: middle;
+  }
